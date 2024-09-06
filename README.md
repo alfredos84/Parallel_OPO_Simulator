@@ -1,4 +1,4 @@
-# cuOPO package
+# Parallel_OPO_Simulator package
 
 is a CUDA-based toolkit for simulating optical parametric oscillators using the coupled-wave equations (CWEs) that well-describe the three wave mixing (TWM) processes in a second-order nonlinear media. CUDA programming allows you to implement parallel computing in order to speed up calculations that typically require a considerable computational demand.
 
