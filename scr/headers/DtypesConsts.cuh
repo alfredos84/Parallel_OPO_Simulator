@@ -26,7 +26,7 @@ using cVecd_t = thrust::device_vector<complex_t>;
 
 
 // Define global constants
-const uint SIZE   = 1 << 14;	// vector size
+const uint SIZE   = 1 << 14;  // vector size
 const uint NZ     = 150;		  // size discretization
 const uint NRT    = 10000;		// number of round trips    
 const uint BLKX   = 1 << 7;		// block dimensions for kernels
